@@ -1,3 +1,5 @@
+// This function returns the factorial of a number 
+
 var factorial = function(num){
   var n = num;
   var p = 1;
